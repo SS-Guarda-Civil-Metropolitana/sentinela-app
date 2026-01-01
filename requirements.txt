@@ -1,1 +1,11 @@
 
+flet==0.24.1
+sounddevice
+numpy
+librosa
+SpeechRecognition
+scipy
+noisereduce
+requests
+geocoder
+soundfile
